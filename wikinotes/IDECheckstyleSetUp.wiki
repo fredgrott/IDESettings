@@ -1,0 +1,3 @@
+Back to IDESetUp
+
+We use a local checkstyle checks file local to the project and than specify that in the local tab. Than define a R.java filter to filter out R.java from the checkstyle scans.

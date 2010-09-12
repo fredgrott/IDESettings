@@ -1,0 +1,3 @@
+Back to IDESetUp
+
+Specified on a project-by-project basis. Copy ruleset PMD checks and paste into .ruleset file that is generated when you enable PMD by project and check use .ruleset.

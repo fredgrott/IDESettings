@@ -1,0 +1,6 @@
+Back to index
+
+   * IDECheckstyleSetUp
+   * IDEPMDSetUp
+   * IDEGeneralEditorsText
+   * IDESpellingSetUp

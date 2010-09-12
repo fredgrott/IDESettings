@@ -1,0 +1,3 @@
+Back to IDESetUp
+
+Download the dictionary.txt file from the javalobby article and set in General>editors>text, can store file in userspace on OS file system or in workspace, etc.

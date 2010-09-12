@@ -1,0 +1,9 @@
+Notes on IDE setup, Java, LAMP, and a bit of everything.
+   * IDESetUp
+   * [[Android]]
+   * EnterpriseJava
+   * ApacheANT
+   * GroovyGradle
+   * [[Grails]]
+   * RailsFrameworks
+   * [[LAMP]]
