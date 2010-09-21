@@ -1,0 +1,3 @@
+Back to Android
+
+Dependency Injection usefulness for Android is all about whether the DI framework has anything other than setter type injection. Only RoboGuice has injection types other than setter at this time. Non-setter injection types are required to grab such things as context, etc when testing and other development tasks.

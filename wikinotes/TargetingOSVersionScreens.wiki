@@ -1,0 +1,12 @@
+Back to Android
+
+Certain tools do not set anyDensity right when you target 3 api, thus manifest should have this instead:
+<verbatim>
+ <!-- Targeting 3 automatically sets anyDensity false goofing up
+      WVGA screens..set to true -->
+<supports-screens android:smallScreens="true"
+                  android:normalScreens="true"
+                  android:largeScreens="true"
+                  android:anyDensity="true" />
+
+</verbatim>
